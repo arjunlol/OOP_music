@@ -51,8 +51,8 @@ class Library {
   }
 }
 
-const track = new Track('Arjun', 10, 200);
-const track2 = new Track('Bill', 20, 200);
+const track = new Track('Arjun', 3, 200);
+const track2 = new Track('Bill', 5, 200);
 
 const playlist = new Playlist("Arjun's hits")
 const library = new Library("Arjun's Library", "Arjun")
